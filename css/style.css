@@ -19,6 +19,9 @@
   border-radius: 10px;
   font-size: 13px;
 }
+.box:nth-child(2n) .sconto{
+  background: #82b74b;
+}
 .box .heart{
   position: absolute;
   bottom: 0;
@@ -26,9 +29,8 @@
   height: 10%;
   display: none;
   text-align: center;
-
-
 }
+
 .box:hover .heart{
   display: block;
 }
