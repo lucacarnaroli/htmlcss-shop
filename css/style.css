@@ -3,10 +3,11 @@
   margin: 0px;
   padding: 0px;
 }
-
+.section {
+  margin: 15px;
+}
 .box {
   display:inline-block;
-  margin: 10px;
   position: relative;
 }
 .sconto {
